@@ -104,9 +104,7 @@ public class HelloFunctionApplication {
 
 ---
 
-# [fit] Beyond the initial investment in coding, I can create an almost
-# [fit] variable cost business model
-# [fit] and redirect investment to maximise returns...
+# Beyond the initial investment in coding, I can create an almost variable cost business model and redirect investment to maximise returns...
 
 ^ Simon Wardley
 
